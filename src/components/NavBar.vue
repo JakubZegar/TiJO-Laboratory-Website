@@ -97,7 +97,7 @@ export default {
   font-weight: bold;
   font-size:calc(12px+3vh);
 }
-.search{
+.search, .form-inline{
   display:flex;
   align-items: center;
   justify-content: center;
