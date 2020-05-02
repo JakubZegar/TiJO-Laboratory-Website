@@ -70,6 +70,8 @@ export default {
     }
     .cardImage{
         margin:6px;
+        width:170px;
+        height:170px;
     }
     .cardBadges{
         align-items: flex-end;

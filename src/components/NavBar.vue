@@ -1,8 +1,8 @@
 <template>
   <div >
     <b-navbar toggleable="lg" type="light" class="navbarContainer" fixed="top" >
-      <b-img src="https://i.imgur.com/YBYkW8H.jpg" width="40vw" height="40vw" style="margin-right:3vh;"></b-img>
-      <b-navbar-brand >  <div class="brand">Software Testing and Quality</div></b-navbar-brand>
+      <b-img src="https://i.imgur.com/YBYkW8H.jpg" width="40vw" height="40vw" style="margin-right:2vh;"></b-img>
+      <div class="brand">Software Testing and Quality</div>
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
       <b-collapse id="nav-collapse" is-nav>
@@ -29,8 +29,6 @@
             <b-dropdown-item @click="sort('index','desc')" >Index Descending</b-dropdown-item>
             <b-dropdown-item @click="sort('presenceCounter','asc')" >Presence Ascending</b-dropdown-item>
             <b-dropdown-item @click="sort('presenceCounter','desc')" >Presence Descending</b-dropdown-item>
-            <b-dropdown-item @click="sort('absenceCounter','asc')" >Absence Ascending</b-dropdown-item>
-            <b-dropdown-item @click="sort('absenceCounter','desc')" >Absence Descending</b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item-dropdown right variant="light" style="color:white !important;">
             <template v-slot:button-content>
@@ -97,11 +95,16 @@ export default {
 .brand, .dropdown{
   color:white;
   font-weight: bold;
+  font-size:calc(12px+3vh);
 }
-.search{
+.search, .form-inline{
   display:flex;
   align-items: center;
   justify-content: center;
+}
+.navbar-brand{
+  display: float;
+  align-items: left;
 }
 
 
