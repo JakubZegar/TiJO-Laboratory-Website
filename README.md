@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
+
 # tijo-laboratory
 
 ## Project setup
