@@ -2,7 +2,9 @@ https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
 
 # App made for tracking grades during remote studying for Testing and 
 
-![Front page](https://imgur.com/rrH4C1W)
+![Front page](https://i.imgur.com/rrH4C1W.png)
+
+![Details](https://i.imgur.com/PkPlOrN.png)
 
 ## Application showcase (PL language)
 https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
