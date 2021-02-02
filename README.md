@@ -1,13 +1,13 @@
+## App made for tracking grades during remote studying
+
+## Application showcase (PL language)
 https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
 
-# App made for tracking grades during remote studying
+### Preview
 
 ![Front page](https://i.imgur.com/rrH4C1W.png)
 
 ![Details](https://i.imgur.com/PkPlOrN.png)
-
-## Application showcase (PL language)
-https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
 
 
 ## Project setup
