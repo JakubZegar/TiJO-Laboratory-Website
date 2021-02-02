@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
 
-# App made for tracking grades during remote studying for Testing and 
+# App made for tracking grades during remote studying
 
 ![Front page](https://i.imgur.com/rrH4C1W.png)
 
