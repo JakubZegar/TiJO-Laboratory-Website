@@ -1,6 +1,6 @@
 ## App made for tracking grades during remote studying
 
-### Application showcase (PL language)
+### Application showcase video (PL language)
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/j0Vj_4fD8Kw/0.jpg)](https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
  "App showcase")
