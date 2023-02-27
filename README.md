@@ -2,7 +2,7 @@
 
 ### Application showcase video (PL language)
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/j0Vj_4fD8Kw/0.jpg)](https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/j0Vj_4fD8Kw/hqdefault.jpg)](https://www.youtube.com/watch?v=j0Vj_4fD8Kw&t=15s
  "App showcase")
 
 
